@@ -6,7 +6,7 @@ I have great passion for Network Automation and Data Science.
 ### Recent Projects
 
 Below is a highlight of the projects that i am currently working on.
-```markdown
+
 ### Access Point Latency Analysis using Telegraf
 The project aims at visualizing Access Point latencies for our Districts.
 
