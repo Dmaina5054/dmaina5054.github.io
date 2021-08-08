@@ -8,11 +8,10 @@ I have great passion for Network Automation and Data Science.
 Below is a highlight of the projects that i am currently working on.
 
 ### Access Point Latency Analysis using Telegraf
-The project aims at visualizing Access Point latencies for our Districts.
+The project is in development and aims at visualizing Access Point Network latencies for our zones. Main of objective of this project
+ is to allow our Network Maintenance team to identify regions with poor network signal.
+A slack webhook is configured to send alerts based on set Thresholds to a slack channel. 
 
-
-
-Docker
 
 ### Technologies Used
 1. InfluxDb
