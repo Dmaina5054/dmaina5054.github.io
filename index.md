@@ -22,13 +22,16 @@ A slack webhook is configured to send alerts based on set Thresholds to a slack 
 
 ![Network Latency Visualization Interface](https://storage.googleapis.com/staging.slack-286515.appspot.com/git/dash.png)
 
-Network Visualization for a Region
+
+<i> Network Visualization for a Region</i>
 
 
+<hr>
 **Sample Alert** 
 
-![Slack Alert notification](https://storage.googleapis.com/staging.slack-286515.appspot.com/git/slackalert.jpeg)
-Slack notification sent to Technician
+![Slack Notification](https://storage.googleapis.com/staging.slack-286515.appspot.com/git/Slack%20Notification.jpeg)
+
+<i>Slack notification sent to Technician</i>
 
 
 
