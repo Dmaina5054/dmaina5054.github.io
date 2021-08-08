@@ -13,7 +13,7 @@ The project aims at visualizing Access Point latencies for our Districts.
 
 
 Docker
-## Header 2
+
 ### Technologies Used
 1. InfluxDb
 2. Telegraf
