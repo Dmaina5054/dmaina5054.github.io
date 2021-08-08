@@ -3,14 +3,17 @@
 Hello, i am Daniel Maina. I am currently serving as a Technical Support Engineer at Ahadi Wireless.
 I have great passion for Network Automation and Data Science.
 
-### Markdown
+### Recent Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Below is a highlight of the projects that i am currently working on.
 ```markdown
-Syntax highlighted code block
+### Access Point Latency Analysis using Telegraf
+The project aims at visualizing Access Point latencies for our Districts.
 
-# Header 1
+### Technologies Used
+<li>InfluxDb</li>
+<li>Telegraf</li>
+<li>Docker</li>
 ## Header 2
 ### Header 3
 
