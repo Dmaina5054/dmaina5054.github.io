@@ -1,8 +1,7 @@
 ## Daniel M
 
-You can use the [editor on GitHub](https://github.com/Dmaina5054/dmaina5054.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello, i am Daniel Maina. I am currently serving as a Technical Support Engineer at Ahadi Wireless.
+I have great passion for Network Automation and Data Science.
 
 ### Markdown
 
