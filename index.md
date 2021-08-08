@@ -1,4 +1,4 @@
-## Daniel M
+## About Me
 
 Hello, i am Daniel Maina. I am currently serving as a Technical Support Engineer at Ahadi Wireless.
 I have great passion for Network Automation and Data Science.
