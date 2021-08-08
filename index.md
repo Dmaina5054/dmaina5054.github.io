@@ -19,6 +19,9 @@ Docker
 2. Telegraf
 3. Docker
 
+**Screenshots**
+
+![Influx dnsquery](https://storage.googleapis.com/staging.slack-286515.appspot.com/git/Screenshot%20from%202021-07-16%2011-03-20.png)
 
 **Technologies Documentation Links** 
 
