@@ -18,10 +18,18 @@ A slack webhook is configured to send alerts based on set Thresholds to a slack 
 2. Telegraf
 3. Docker
 
-**Screenshots**
+**Visualization Interface**
 
-![Influx dnsquery](https://storage.googleapis.com/staging.slack-286515.appspot.com/git/Screenshot%20from%202021-07-16%2011-03-20.png)
+![Network Latency Visualization Interface](https://storage.googleapis.com/staging.slack-286515.appspot.com/git/dash.png)
 
-**Technologies Documentation Links** 
+Network Visualization for a Region
+
+
+**Sample Alert** 
+
+![Slack Alert notification](https://storage.googleapis.com/staging.slack-286515.appspot.com/git/slackalert.jpeg)
+Slack notification sent to Technician
+
+
 
 
