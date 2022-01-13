@@ -12,6 +12,7 @@ I have great passion for Network Automation and Data Analytics.
 
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmaina5054)](https://github.com/Dmaina5054/github-readme-stats)
+![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=Dmain5054&show_icons=true&theme=radical)
 
 
 
