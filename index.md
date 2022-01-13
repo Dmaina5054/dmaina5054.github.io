@@ -1,24 +1,17 @@
 ## ABOUT
+## [![Daniel Maina's header](https://github.com/erickogi/erickogi/blob/main/images/background.jpeg)](https://www.linkedin.com/in/daniel-maina-58748bb4/)
+<p align='center'>
+<a href="https://twitter.com/anacron11"><img height="30" src="https://github.com/erickogi/erickogi/blob/main/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/daniel-maina-58748bb4/"><img height="30" src="https://github.com/erickogi/erickogi/blob/main/images/linkedin.png?raw=true"></a>
+</p>
+<h2 align="center">Hello, am Daniel 👋🤓</h2>
+<p align="center">Support Engineer</p>
 
-Hello, i am Daniel Maina. I am currently serving as a Technical Support Engineer at Ahadi Wireless.
-I have great passion for Network Automation and Data Science.
-
-### Recent Projects
-
-A highlight of some of my projects
-
-### 1. Access Point Latency Analysis using InfluxDB
-The project is in development and aims at visualizing Access Point Network latencies for our zones. Main of objective of this project
- is to allow our Network Maintenance team to identify regions with poor network signal.
-A slack webhook is configured to send alerts based on set Thresholds to a slack channel. 
+I am currently serving as a Technical Support Engineer at Ahadi Wireless.
+I have great passion for Network Automation and Data Analytics.
 
 
-### Technologies Used
-1. InfluxDb
-2. Telegraf
-3. Docker
-
-
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmaina5054)](https://github.com/Dmaina5054/github-readme-stats)
 
 
 
