@@ -10,6 +10,11 @@
 I am currently serving as a Technical Support Engineer at Ahadi Wireless.
 I have great passion for Network Automation and Data Analytics.
 
+### 📫 Let us link on
+- [Twitter](https://twitter.com/anacron11) 🐤
+- [LinkedIn](https://linkedin.com/in/erickogi) 👨💼
+
+
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmaina5054)](https://github.com/Dmaina5054/github-readme-stats)
 ![Daniel's Github Stats](https://github-readme-stats.vercel.app/api?username=Dmaina5054&show_icons=true&theme=radical)
